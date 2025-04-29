@@ -1,0 +1,4 @@
+Status: Sucesso – pedido confirmado e dados extraídos.
+ID da Compra: 3031921
+Valor Total: 360 USD
+Data/Hora da execução: 29/04/2025 17:04:30
