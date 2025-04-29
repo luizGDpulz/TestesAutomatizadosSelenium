@@ -1,0 +1,18 @@
+RELATÓRIO DE TESTE - TC-005: Preenchimento do formulário Formy
+
+Site: https://formy-project.herokuapp.com/form
+Data/Hora: 29/04/2025 17:48:45
+
+DADOS PREENCHIDOS NO FORMULÁRIO:
+------------------------------
+First name: João
+Last name: Silva
+Job Title: QA Engineer
+Highest level of education: College
+Sex: Male
+Years of experience: 2-4
+Date: 04/29/2025
+
+RESULTADO:
+---------
+Status: Sucesso - Formulário enviado com sucesso
