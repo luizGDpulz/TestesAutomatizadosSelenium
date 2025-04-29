@@ -56,4 +56,8 @@ Verificar se, ao utilizar a senha incorreta para o usuário padrão, o sistema e
   Epic sadface: Username and password do not match any user in this service
   ```  
 - **Data/Hora de Início:** 29/04/2025 14:01:10  
-- **Data/Hora de Término:** 29/04/2025 14:01:15  
+- **Data/Hora de Término:** 29/04/2025 14:01:15 
+
+- **Imagem do erro** 
+    
+  ![Evidence](./evidence/evidence01.png)
