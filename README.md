@@ -33,7 +33,7 @@ Este projeto contém uma suíte de testes automatizados utilizando Selenium WebD
 ```
 TestesAutomatizadosSelenium/
 ├── scripts/               # Scripts Python com os testes
-├── relatorios/           # Documentação detalhada dos casos de teste
+└── relatorios/           # Documentação detalhada dos casos de teste
     └── evidence/         # Evidências geradas durante execução
 ```
 
